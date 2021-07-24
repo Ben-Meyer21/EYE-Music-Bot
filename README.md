@@ -2,7 +2,7 @@
 <p align="center">Thanks for Your love & support!</p>
 
 
-## 📝 [Support Server](https://discord.io/teameye)
+## 📝 [Support Server]COMING SOON!
 
 Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. https://discord.io/teameye
 
